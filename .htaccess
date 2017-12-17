@@ -1,5 +1,6 @@
 
 # BEGIN WordPress for cpMetals and others wo are interested
+# day 2 with a branch?
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteBase /
